@@ -34,7 +34,5 @@ public class MainProgram {
             DB.closeStatement(preparedStatement);
             DB.closeConnection();
         }
-
-
     }
 }
